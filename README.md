@@ -39,26 +39,26 @@ Upload the `.zip` archive through the Skills API, or upload the files individual
 
 Click a skill name to download its upload-ready ZIP. Editable source folders are available under [`skills/`](skills).
 
-| Skill file | Skill details |
-|---|---|
-| [`adversarial-reviewer`](dist/adversarial-reviewer.zip) | A red-team pass on a position or draft — assumption audit, contrary evidence, the opponent's best case, a stress-test table, and a repair plan |
-| [`arbitrator`](dist/arbitrator.zip) | Runs a structured hearing of both sides and delivers a reasoned ruling |
-| [`case-law-analyst`](dist/case-law-analyst.zip) | A litigation-ready case note in ten parts — snapshot, material facts, procedural history, issues, holding, ratio, obiter, reasoning, how to use it, how to distinguish it |
-| [`chronology-builder`](dist/chronology-builder.zip) | A source-linked timeline with confidence ratings, date conflicts, key periods, and deadlines to verify |
-| [`client-intake-interviewer`](dist/client-intake-interviewer.zip) | A structured intake record — facts, dates, documents held and needed, preliminary issues, and conflict flags |
-| [`contract-reviewer`](dist/contract-reviewer.zip) | A 41-parameter CUAD-style clause table with evidence citations, plus risk analysis, missing protections, and negotiation priorities |
-| [`courtroom-coach`](dist/courtroom-coach.zip) | Prepares someone to present their own case: structure, evidence, the hardest questions, and conduct on the day |
-| [`cross-examination-strategist`](dist/cross-examination-strategist.zip) | A document-linked cross plan — themes, contradiction map, leading question sequence, risk controls, admissions to lock in |
-| [`devils-advocate-legal`](dist/devils-advocate-legal.zip) | Attacks their position the way opposing counsel would, then gives a candid fight-or-settle read |
-| [`due-diligence-reviewer`](dist/due-diligence-reviewer.zip) | Executive red flags, document checklist, consents and approvals, closing actions, and a severity-rated risk register |
-| [`evidence-organizer`](dist/evidence-organizer.zip) | An issue-linked evidence index with privilege risk, admissibility questions, exhibit candidates, and gaps |
-| [`legal-explainer`](dist/legal-explainer.zip) | Explains a legal term, clause, or process in plain language, with jurisdiction caveats and honest complexity |
-| [`legal-researcher`](dist/legal-researcher.zip) | A research plan and issue map — what to verify, where to search, and which authorities to check. Deliberately does not invent citations |
-| [`legal-strategist`](dist/legal-strategist.zip) | Maps realistic options — negotiate, demand letter, mediate, sue, complain, walk away — with time, cost, and leverage for each |
-| [`litigation-drafting-assistant`](dist/litigation-drafting-assistant.zip) | A controlled first draft of notices, pleadings, affidavits, applications, or submissions, with unverified facts left as visible placeholders |
-| [`mediator`](dist/mediator.zip) | Facilitates a conflict conversation in four modes — both sides, interview, live session, or preparing one party |
-| [`regulatory-compliance-analyst`](dist/regulatory-compliance-analyst.zip) | An obligation matrix with triggers, owners, deadlines and evidence, plus filings, controls, and a phased action plan |
-| [`settlement-evaluator`](dist/settlement-evaluator.zip) | BATNA/WATNA, a risk-adjusted range with the arithmetic shown, a leverage map for both sides, and settlement options |
+| Skill file | SKILL.md | Skill details |
+|---|---|---|
+| [`adversarial-reviewer`](dist/adversarial-reviewer.zip) | [View source](skills/adversarial-reviewer/SKILL.md) | A red-team pass on a position or draft — assumption audit, contrary evidence, the opponent's best case, a stress-test table, and a repair plan |
+| [`arbitrator`](dist/arbitrator.zip) | [View source](skills/arbitrator/SKILL.md) | Runs a structured hearing of both sides and delivers a reasoned ruling |
+| [`case-law-analyst`](dist/case-law-analyst.zip) | [View source](skills/case-law-analyst/SKILL.md) | A litigation-ready case note in ten parts — snapshot, material facts, procedural history, issues, holding, ratio, obiter, reasoning, how to use it, how to distinguish it |
+| [`chronology-builder`](dist/chronology-builder.zip) | [View source](skills/chronology-builder/SKILL.md) | A source-linked timeline with confidence ratings, date conflicts, key periods, and deadlines to verify |
+| [`client-intake-interviewer`](dist/client-intake-interviewer.zip) | [View source](skills/client-intake-interviewer/SKILL.md) | A structured intake record — facts, dates, documents held and needed, preliminary issues, and conflict flags |
+| [`contract-reviewer`](dist/contract-reviewer.zip) | [View source](skills/contract-reviewer/SKILL.md) | A 41-parameter CUAD-style clause table with evidence citations, plus risk analysis, missing protections, and negotiation priorities |
+| [`courtroom-coach`](dist/courtroom-coach.zip) | [View source](skills/courtroom-coach/SKILL.md) | Prepares someone to present their own case: structure, evidence, the hardest questions, and conduct on the day |
+| [`cross-examination-strategist`](dist/cross-examination-strategist.zip) | [View source](skills/cross-examination-strategist/SKILL.md) | A document-linked cross plan — themes, contradiction map, leading question sequence, risk controls, admissions to lock in |
+| [`devils-advocate-legal`](dist/devils-advocate-legal.zip) | [View source](skills/devils-advocate-legal/SKILL.md) | Attacks their position the way opposing counsel would, then gives a candid fight-or-settle read |
+| [`due-diligence-reviewer`](dist/due-diligence-reviewer.zip) | [View source](skills/due-diligence-reviewer/SKILL.md) | Executive red flags, document checklist, consents and approvals, closing actions, and a severity-rated risk register |
+| [`evidence-organizer`](dist/evidence-organizer.zip) | [View source](skills/evidence-organizer/SKILL.md) | An issue-linked evidence index with privilege risk, admissibility questions, exhibit candidates, and gaps |
+| [`legal-explainer`](dist/legal-explainer.zip) | [View source](skills/legal-explainer/SKILL.md) | Explains a legal term, clause, or process in plain language, with jurisdiction caveats and honest complexity |
+| [`legal-researcher`](dist/legal-researcher.zip) | [View source](skills/legal-researcher/SKILL.md) | A research plan and issue map — what to verify, where to search, and which authorities to check. Deliberately does not invent citations |
+| [`legal-strategist`](dist/legal-strategist.zip) | [View source](skills/legal-strategist/SKILL.md) | Maps realistic options — negotiate, demand letter, mediate, sue, complain, walk away — with time, cost, and leverage for each |
+| [`litigation-drafting-assistant`](dist/litigation-drafting-assistant.zip) | [View source](skills/litigation-drafting-assistant/SKILL.md) | A controlled first draft of notices, pleadings, affidavits, applications, or submissions, with unverified facts left as visible placeholders |
+| [`mediator`](dist/mediator.zip) | [View source](skills/mediator/SKILL.md) | Facilitates a conflict conversation in four modes — both sides, interview, live session, or preparing one party |
+| [`regulatory-compliance-analyst`](dist/regulatory-compliance-analyst.zip) | [View source](skills/regulatory-compliance-analyst/SKILL.md) | An obligation matrix with triggers, owners, deadlines and evidence, plus filings, controls, and a phased action plan |
+| [`settlement-evaluator`](dist/settlement-evaluator.zip) | [View source](skills/settlement-evaluator/SKILL.md) | BATNA/WATNA, a risk-adjusted range with the arithmetic shown, a leverage map for both sides, and settlement options |
 
 ---
 
