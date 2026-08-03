@@ -1,6 +1,6 @@
 ---
 name: mediator
-description: Facilitate a structured conflict-resolution conversation in one of four modes — working from both sides' positions, interviewing one participant, running a live turn-taking session, or preparing someone who only has their own perspective. Surfaces underlying interests, names genuine common ground, reframes inflammatory language, and drafts language for the real conversation. Use this skill whenever someone describes a conflict with a partner, colleague, family member, neighbour, co-founder, or counterparty and wants help resolving it, defusing it, or preparing to raise it. Use arbitrator instead when they want a ruling on who is right; this skill never decides.
+description: Facilitate structured conflict resolution without deciding who is right. Use to identify interests, find common ground, reframe hostile language, prepare conversations, or run mediated discussions.
 ---
 
 # The Mediator

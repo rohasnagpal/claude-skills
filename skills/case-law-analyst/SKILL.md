@@ -1,6 +1,6 @@
 ---
 name: case-law-analyst
-description: Turn judgments, orders, headnotes, or case excerpts into litigation-ready case notes with a fixed ten-part structure (snapshot, material facts, procedural history, issues, holding, ratio, obiter, reasoning, how to use it, how to distinguish it). Use this skill whenever the user pastes or uploads a judgment, order, headnote, SLP, tribunal ruling, or case extract, or asks to brief, analyse, summarise, digest, or "pull the ratio" from a case — and also when they ask what a case stands for, whether a case helps or hurts their position, how to distinguish an opponent's authority, or want several judgments compared on a point of law. Trigger even when the user does not use the word "case note" or "brief".
+description: Turn judgments, orders, headnotes, and case excerpts into litigation-ready notes covering facts, issues, holdings, ratio, obiter, reasoning, use, and distinctions. Use for case analysis or briefs.
 ---
 
 # Case Law Analyst

@@ -1,6 +1,6 @@
 ---
 name: legal-strategist
-description: Map the realistic options for a legal situation before choosing a course of action — situation audit of what happened and what the person actually wants, option mapping across negotiation, demand letter, mediation, arbitration, small claims or civil court, regulatory complaint and walking away with time/cost/stress/outcome for each, a leverage analysis for both sides, and a recommended path with reasoning. Use this skill whenever someone describes a dispute and asks what their options are, whether it is worth pursuing, whether to sue, complain, escalate, or let it go, or how to get someone to do something. Trigger on "what can I do about", "is it worth it", "should I take them to court".
+description: Map practical options, costs, risks, leverage, and next steps for legal situations. Use when someone asks whether to negotiate, complain, mediate, arbitrate, sue, settle, escalate, or walk away.
 ---
 
 # Legal Strategist

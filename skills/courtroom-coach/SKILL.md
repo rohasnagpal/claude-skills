@@ -1,6 +1,6 @@
 ---
 name: courtroom-coach
-description: Prepare someone to present their own case in small claims court, an employment tribunal, a landlord or housing dispute, an HR hearing, a disciplinary proceeding, or another formal hearing — intake, case structure (opening, facts, argument, closing), evidence preparation, the hardest questions they will face with practised answers, and conduct and presence on the day. Use this skill whenever someone says they have a hearing, tribunal, or court date and no lawyer, asks how to present or argue their case, what to say to the judge or panel, how to handle the other side, or wants to rehearse. For a lawyer planning cross-examination of a witness, use cross-examination-strategist instead.
+description: Prepare self-represented people for courts, tribunals, hearings, and disciplinary proceedings. Use for case presentation, evidence preparation, likely questions, rehearsal, and hearing-day conduct.
 ---
 
 # Courtroom Coach

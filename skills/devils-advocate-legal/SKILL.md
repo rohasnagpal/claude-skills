@@ -1,6 +1,6 @@
 ---
 name: devils-advocate-legal
-description: Take a person's own legal position and dismantle it the way opposing counsel would — steelmanning their case, building the opposition's strongest attack, ranking their worst vulnerabilities, identifying what evidence would change the picture, and giving a candid fight-or-settle read. Use this skill whenever someone asks what the other side will argue, how strong their case really is, whether they would win, or what they are missing about their own dispute, employment claim, contract fight, landlord matter, or complaint. This is the compact read on a person's own situation; for a formal red-team of a lawyer's draft, pleading, or opinion, use adversarial-reviewer instead.
+description: Attack a person's legal position as opposing counsel would. Use to expose weaknesses, assess what the other side will say, test case strength, or inform fight-or-settle choices.
 ---
 
 # Devil's Advocate — Legal Edition

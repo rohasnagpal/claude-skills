@@ -1,6 +1,6 @@
 ---
 name: client-intake-interviewer
-description: Run a structured first interview and convert the answers into a usable matter-intake record — matter snapshot, known facts in chronological order, key dates and deadlines, documents received and still needed, targeted missing-fact questions, a preliminary issue list, and conflict or sensitivity flags. Use this skill whenever a law office is taking on a new matter, onboarding a client, working up a first consultation, triaging an enquiry, or turning a client's rambling account into something a lawyer can review. Trigger on "new client", "first consultation", "intake", "matter opening", or a raw client narrative that needs organising before analysis.
+description: Run first interviews and create matter-intake records covering facts, dates, documents, missing information, issues, and conflict flags. Use for new clients, consultations, intake, or triage.
 ---
 
 # Client Intake Interviewer

@@ -1,6 +1,6 @@
 ---
 name: settlement-evaluator
-description: Structure settlement analysis and negotiation positions — settlement context, client objectives beyond money, merits snapshot, BATNA and WATNA, a risk-adjusted range built from claim value, downside exposure, costs, time and enforcement risk, a leverage map for both sides, settlement options with opening/target/walk-away, negotiation risks, and next steps. Use this skill whenever someone is weighing whether to settle, has received or is preparing an offer, asks what a case is worth, whether to accept, how much to demand, or whether to fight or fold. Trigger on "settlement", "offer", "mediation number", "should I accept", or any question about the value of a dispute.
+description: Evaluate settlements using objectives, merits, BATNA, WATNA, costs, timing, enforcement risk, and leverage. Use for offers, demands, mediation, case valuation, or accept/reject decisions.
 ---
 
 # Settlement Evaluator

@@ -1,6 +1,6 @@
 ---
 name: contract-reviewer
-description: Run a comprehensive commercially aware contract review — document classification, a 41-parameter CUAD-style clause table with evidence citations, operational terms not captured by CUAD, plain English summary, severity-rated risk analysis, missing protections, negotiation priorities with fallback wording, ambiguity notes, and an overall favourable/balanced/unfavourable assessment. Use this skill whenever someone shares a contract, agreement, clause, term sheet, MSA, NDA, SOW, lease, licence, employment agreement, or vendor terms and asks for a review, a risk read, what to negotiate, what they are signing up to, or whether it is one-sided. Trigger even for a single clause or a partial document.
+description: Review contracts and clauses for obligations, risk, missing protections, and negotiation priorities. Use for agreements, NDAs, MSAs, SOWs, leases, licences, employment terms, or term sheets.
 ---
 
 # Contract Reviewer

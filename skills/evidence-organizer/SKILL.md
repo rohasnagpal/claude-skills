@@ -1,6 +1,6 @@
 ---
 name: evidence-organizer
-description: Classify documents, messages, pleadings, statements, exhibits, and records into an issue-linked evidence map — indexed table with relevance, evidentiary value and privilege risk, per-issue supporting and adverse evidence, privilege and confidentiality flags, authenticity and admissibility questions, exhibit candidates, and evidence gaps. Use this skill whenever someone has a pile of documents for a dispute and needs it organised, tagged to issues, or prepared for pleadings, disclosure, cross-examination, or a hearing bundle, or asks which documents actually help, what is missing, or what might be privileged. Trigger on "these documents", "evidence", "exhibits", "disclosure", or "what do I have".
+description: Organize documents and records into an issue-linked evidence map. Use for exhibits, disclosure, hearing bundles, privilege review, admissibility, evidence gaps, or supporting and adverse proof.
 ---
 
 # Evidence Organizer

@@ -1,6 +1,6 @@
 ---
 name: adversarial-reviewer
-description: Stress-test a legal position, draft, pleading, opinion, negotiation strategy, or proposed course of action before it is relied on — auditing assumptions, contrary evidence, the opponent's best case, authority gaps, procedural and ethical risks, with a risk-ranked stress-test table and repair plan. Use this skill whenever a lawyer or legal team asks for a red-team, pre-mortem, devil's advocate pass, sanity check, or "poke holes in this" on legal work product, or asks what the other side will say, where a filing is weak, or whether an argument will hold up. This is the rigorous lawyer-facing review; for a compact adversarial read on a lay user's own situation, use devils-advocate-legal instead.
+description: Stress-test legal arguments, drafts, pleadings, opinions, and strategies. Use for red-team reviews, pre-mortems, opponent analysis, weakness audits, or requests to poke holes in legal work.
 ---
 
 # Adversarial Reviewer

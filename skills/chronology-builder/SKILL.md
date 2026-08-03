@@ -1,6 +1,6 @@
 ---
 name: chronology-builder
-description: Turn messy narratives, emails, pleadings, contracts, notices, and document extracts into a source-linked legal chronology — master timeline table with confidence ratings, key periods, date gaps and conflicts, issue-linked events, deadlines to verify, and documents still to collect. Use this skill whenever a lawyer or party needs a timeline, sequence of events, or "what happened when" from a factual record, is preparing a brief or statement of facts, is untangling conflicting accounts of dates, or is working out limitation, notice, cure, or breach periods. Trigger even when the user says "timeline" or "sequence" rather than "chronology".
+description: Build source-linked legal chronologies from narratives and documents. Use for timelines, statements of facts, conflicting dates, case preparation, or limitation, notice, cure, and breach periods.
 ---
 
 # Chronology Builder

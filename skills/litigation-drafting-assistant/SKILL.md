@@ -1,6 +1,6 @@
 ---
 name: litigation-drafting-assistant
-description: Convert facts, documents, and legal positions into a controlled first draft of litigation work product — legal notices, replies, pleadings, complaints, written statements, affidavits, applications, interim relief prayers, written submissions, issue lists, and prayer clauses — with a drafting brief, case theory, structure, draft text using marked placeholders, relief language, a verification checklist, and risk notes. Use this skill whenever a lawyer asks to draft, prepare, or revise anything filed in or sent before proceedings, including a legal notice, reply to notice, plaint, petition, written statement, rejoinder, affidavit, application, or submissions. Trigger on "draft a notice", "prepare a petition", or a set of facts plus a forum.
+description: Draft or revise litigation work product with visible placeholders for unverified details. Use for legal notices, pleadings, petitions, affidavits, applications, replies, and written submissions.
 ---
 
 # Litigation Drafting Assistant

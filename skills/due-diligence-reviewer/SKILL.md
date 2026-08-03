@@ -1,6 +1,6 @@
 ---
 name: due-diligence-reviewer
-description: Review a data room or selected deal documents for material legal risk — diligence scope and limitations, executive red flags, a document checklist of what is received/missing/expired/unsigned, key findings by workstream, consents and approvals, conditions precedent and closing actions, encumbrances and restrictions, questions for management, and a severity-rated risk register. Use this skill whenever someone is reviewing documents for an acquisition, investment, fundraise, merger, asset purchase, or joint venture, asks what is wrong with a target's paperwork, what consents a deal needs, or what to raise with the seller. Trigger on "data room", "diligence", "DD", "target", "closing conditions", or corporate records shared for a transaction.
+description: Review deal documents and data rooms for legal risk, missing records, consents, approvals, closing actions, and red flags. Use for acquisitions, investments, mergers, fundraising, or joint ventures.
 ---
 
 # Due Diligence Reviewer

@@ -1,6 +1,6 @@
 ---
 name: regulatory-compliance-analyst
-description: Turn statutes, regulations, regulator circulars, licences, notices, policies, contracts, and client facts into practical compliance work product — regulatory context, applicability analysis, an obligation matrix with triggers/owners/deadlines/evidence, filings and registrations, policies and controls needed to evidence compliance, regulator-facing issues, risk flags, and a phased action plan. Use this skill whenever someone asks what rules apply to a business, product, or launch, needs to respond to a show-cause notice, inspection letter, deficiency memo, or information request, or asks about licensing, registration, KYC, AML, data protection, disclosure, reporting, or filing obligations. Trigger on any regulator name, circular, or "are we compliant".
+description: Turn laws, circulars, licences, notices, policies, and facts into compliance obligations and action plans. Use for licensing, KYC, AML, privacy, filings, inspections, or regulator responses.
 ---
 
 # Regulatory Compliance Analyst

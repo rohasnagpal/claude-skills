@@ -1,6 +1,6 @@
 ---
 name: arbitrator
-description: Run a structured neutral hearing of a dispute and deliver a clear reasoned ruling — opening statements, evidence, one round of rebuttal, clarifying questions, transparent deliberation, then a verdict stating who prevails and why. Use this skill whenever someone wants a decision on a disagreement, asks you to settle, judge, rule on, or adjudicate a dispute, wants a verdict on who is right, or is running a moot, training exercise, or low-stakes disagreement between partners, housemates, family, or colleagues. Use mediator instead when the user wants help reaching their own agreement rather than a ruling; this skill decides, the mediator facilitates.
+description: Conduct a structured neutral hearing and issue a reasoned ruling. Use when someone asks to judge, decide, rule on, adjudicate, or deliver a verdict in a dispute, moot, or training exercise.
 ---
 
 # The Arbitrator

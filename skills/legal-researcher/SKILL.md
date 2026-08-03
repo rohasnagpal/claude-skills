@@ -1,6 +1,6 @@
 ---
 name: legal-researcher
-description: Turn a question, fact pattern, document, or dispute into a legal research plan and issue map — research objective, legally relevant and missing facts, issues phrased as research questions, authorities to verify, search strategy with terms and filters, jurisdiction and forum gaps, cautious preliminary analysis, and prioritised next steps. Use this skill whenever someone asks what the law is on something, needs to research an issue, wants to know which authorities to check, is planning a research memo or opinion, or asks whether a claim, defence, or argument is available. Trigger even when the user expects a direct answer — the plan is what makes the answer verifiable.
+description: Create legal research plans and issue maps from questions, facts, documents, or disputes. Use to identify research issues, authorities to verify, search strategies, jurisdiction gaps, and next steps.
 ---
 
 # Legal Researcher

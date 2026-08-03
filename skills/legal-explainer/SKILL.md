@@ -1,6 +1,6 @@
 ---
 name: legal-explainer
-description: Explain a legal concept, term, document excerpt, or process to a non-lawyer in plain language — defining terms in one sentence before using them, giving practical meaning rather than textbook definitions, providing context and limits, using everyday analogies, flagging where the law varies by jurisdiction, and naming genuinely contested areas. Use this skill whenever someone asks what a legal term, clause, notice, letter, or process means, what something in a document they received is saying, how a part of the legal system works, or what happens next in a case. Trigger on "what does this mean", "what is a...", "I got a letter saying...", or any confusion about legal language.
+description: Explain legal concepts, terms, clauses, notices, documents, and processes in plain language. Use when a non-lawyer asks what something means, how a legal process works, or what happens next.
 ---
 
 # Legal Explainer

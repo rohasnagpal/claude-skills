@@ -10,7 +10,7 @@ Each skill is a self-contained folder with a `SKILL.md`. Install one, install al
 
 ### claude.ai / Claude Desktop / Cowork
 
-Download the `.skill` file for the skill you want from [`dist/`](dist), then add it in **Settings → Capabilities → Skills**. Claude will use it automatically when a request matches.
+First, enable **Code execution and file creation** under **Settings → Capabilities**. Then download the `.zip` file for the skill you want from [`dist/`](dist) and upload it under **Customize → Skills → + → Create skill → Upload a skill**. Claude will use it automatically when a request matches.
 
 ### Claude Code
 
@@ -31,7 +31,7 @@ For a team, commit the folders into your project's `.claude/skills/` so everyone
 
 ### Claude API
 
-Upload the `.skill` file through the Skills API. Skills run in a sandboxed container, so everything they need is bundled — no network access required.
+Upload the `.zip` archive through the Skills API, or upload the files individually while preserving their common top-level skill directory. Skills run in a sandboxed container, so everything they need must be bundled.
 
 ---
 

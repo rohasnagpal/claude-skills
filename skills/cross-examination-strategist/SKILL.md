@@ -1,6 +1,6 @@
 ---
 name: cross-examination-strategist
-description: Build a disciplined, document-linked cross-examination plan from witness statements, pleadings, and documents — witness snapshot, cross objectives, three to five themes tied to case theory, a contradiction map with impeachment value, a leading question sequence, a document use plan, risk controls, and the admissions to lock in. Use this skill whenever a lawyer is preparing to cross-examine or depose a witness, wants to test a witness statement or affidavit for contradictions, asks how to handle a hostile or expert witness, or needs a question plan for trial or deposition. For a self-represented person preparing to present their own case, use courtroom-coach instead.
+description: Build document-linked cross-examination and deposition plans. Use to test witness statements, find contradictions, plan leading questions, handle hostile or expert witnesses, and secure admissions.
 ---
 
 # Cross-Examination Strategist
